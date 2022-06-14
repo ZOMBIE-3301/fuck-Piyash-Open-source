@@ -1,3 +1,4 @@
+# Devil Sakib Ur Uncle Vatiza
 # Decompile by Mardis (Tools By Kapten-Kaizo)
 # Time Succes decompile : 2022-06-09 19:59:17.533837
 import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass
